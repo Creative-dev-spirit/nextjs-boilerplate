@@ -1,0 +1,17 @@
+.yarn
+.next
+node_modules
+package.json
+yarn.lock
+tsconfig.json
+dist
+build
+public
+.eslintrc.json
+.gitignore
+.npmrc
+.nvmrc
+.prettierrc
+next-env.d.ts
+next.config.js
+README.md
